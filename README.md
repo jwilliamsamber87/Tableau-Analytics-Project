@@ -69,7 +69,7 @@ Each folder has the packaged dashboard file (`.twbx`) and a little README with e
 ## Let’s Connect! 💬
 
 Got questions or just want to chat about data? Reach out!  
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/yourprofile]  
+📧 Email: jessicaamberonline@gmail.com  
+🔗 LinkedIn: linkedin.com/in/jessica-williams-2444bab0/  
 
 Thanks so much for stopping by and checking out my dashboards! 💜
